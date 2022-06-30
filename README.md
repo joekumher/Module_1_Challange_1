@@ -7,11 +7,10 @@ The purpose of this challange is to understand refactoring in order to effective
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
-- Header
-- Navigation Links
-- Section
-- Aside
-- Footer
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
 ## Installation
 
